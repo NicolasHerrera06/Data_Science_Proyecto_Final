@@ -1,4 +1,5 @@
-# Proyecto Final curso Data Science de CoderHouse "Predicción de enfermedades cardíacas"
+# Proyecto Final curso Data Science de CoderHouse 
+<center>"Predicción de enfermedades cardíacas"</center>
 
 Este es el proyecto final del curso de Data Science de la plataforma CoderHouse realizado por los estudiantes Nicolás Herrera, Nicolás Balbiani, Matías Vitola el cual consistía a partir de un data set analizar, transformar y generar una presentación ejecutiva aplicando modelos de Machine Learning.
 
