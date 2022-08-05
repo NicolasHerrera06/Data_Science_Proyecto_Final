@@ -1,5 +1,4 @@
-# Proyecto Final curso Data Science de CoderHouse 
-<center>"Predicción de enfermedades cardíacas"</center>
+# Proyecto Final curso Data Science de CoderHouse    "Predicción de enfermedades cardíacas"
 
 Este es el proyecto final del curso de Data Science de la plataforma CoderHouse realizado por los estudiantes Nicolás Herrera, Nicolás Balbiani, Matías Vitola el cual consistía a partir de un data set analizar, transformar y generar una presentación ejecutiva aplicando modelos de Machine Learning.
 
@@ -67,12 +66,12 @@ Descargarse el proyecto del repositorio https://github.com/NicolasHerrera06/Data
 Las herramientas que se utilizaron para crear este  proyecto fueron:
 
 * [Python](https://www.python.org/) - El lenguaje de programación usado
-* [Jupiter](https://www.djangoproject.com/) - El notebook usado
-* [Numpy](https://www.djangoproject.com/) - Librería usada
-* [Pandas](https://www.djangoproject.com/) - Librería usada
-* [Seabon](https://www.djangoproject.com/) - Librería usada
-* [Sklearn](https://www.djangoproject.com/) - Librería usada
-
+* [Google Colab](https://colab.research.google.com/?utm_source=scs-index) - El entorno usado
+* [Numpy](https://numpy.org/) - Librería usada
+* [Pandas](https://pandas.pydata.org/) - Librería usada
+* [Matplotib](https://matplotlib.org/) - Librería usada
+* [Seabon](https://seaborn.pydata.org/) - Librería usada
+* [Sklearn](https://scikit-learn.org/stable/) - Librería usada
 
 ## Autores ✒️
 
