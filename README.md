@@ -1,10 +1,10 @@
-# Proyecto Final curso Data Science de CoderHouse    "Predicción de enfermedades cardíacas"
+# Proyecto final del curso Data Science de CoderHouse "Predicción de enfermedades cardíacas"
 
-Este es el proyecto final del curso de Data Science de la plataforma CoderHouse realizado por los estudiantes Nicolás Herrera, Nicolás Balbiani, Matías Vitola el cual consistía a partir de un data set analizar, transformar y generar una presentación ejecutiva aplicando modelos de Machine Learning.
+  Este es el proyecto final del curso de Data Science de la plataforma CoderHouse realizado por los estudiantes Nicolás Herrera, Nicolás Balbiani, Matías Vitola el cual consistía a partir de un data set analizar, transformar y generar una presentación ejecutiva aplicando modelos de Machine Learning.
 
 ## Introducción
 
-Según estudios realizados por los Centros para el Control y Prevención de
+  Según estudios realizados por los Centros para el Control y Prevención de
 Enfermedades (CDC) una de las principales causas de muerte en las
 personas en los EE.UU es debido a enfermedades cardíacas. La detección y
 prevención de factores de riesgo en una etapa temprana pueden salvar
@@ -14,7 +14,7 @@ salud de la población.
 
 ## Objetivos 
 
-El objetivo de esta investigación es
+  El objetivo de esta investigación es
 poder predecir la probabilidad de que
 una determinada persona pueda
 contraer una enfermedad cardiaca,
@@ -25,7 +25,7 @@ fumador, si bebe alcohol, entre otras.
 
 ## Origenes de datos
 
-El conjunto de datos proviene de los CDC y es una
+  El conjunto de datos proviene de los CDC y es una
 parte importante del Sistema de Vigilancia de
 Factores de Riesgo del Comportamiento (BRFSS), que
 realiza encuestas telefónicas anuales para recopilar
