@@ -58,7 +58,22 @@ pip install Python3
 
 ### Instalación 🔧
 
-Clonar el proyecto del repositorio: https://github.com/NicolasHerrera06/Data_Science_Proyecto_Final.git
+1 - Abre la Git Bash.
+
+Cambia el directorio de trabajo actual a la ubicación en donde quieres clonar el directorio.
+
+2 - Escribe git clone, y luego pega la URL que copiaste antes.
+
+$ git clone https://github.com/NicolasHerrera06/Data_Science_Proyecto_Final.git
+
+3 - Presiona Enter para crear tu clon local.
+
+$ git clone [https://github.com/YOUR-USERNAME/YOUR-REPOSITORY](https://github.com/NicolasHerrera06/Data_Science_Proyecto_Final.git)
+> Cloning into `Spoon-Knife`...
+> remote: Counting objects: 10, done.
+> remote: Compressing objects: 100% (8/8), done.
+> remove: Total 10 (delta 1), reused 10 (delta 1)
+> Unpacking objects: 100% (10/10), done.
 
 
 ## Construido con 🛠️
