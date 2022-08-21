@@ -58,7 +58,7 @@ pip install Python3
 
 ### Instalación 🔧
 
-Descargarse el proyecto del repositorio https://github.com/NicolasHerrera06/Data_Science_Proyecto_Final
+Clonar el proyecto del repositorio: https://github.com/NicolasHerrera06/Data_Science_Proyecto_Final.git
 
 
 ## Construido con 🛠️
