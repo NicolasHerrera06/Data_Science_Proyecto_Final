@@ -38,9 +38,6 @@ provienen de la encuesta anual de los CDC de 2020
 de 400 000 adultos relacionados con su estado de
 salud.
 
-## Indicadores principales
-
-
 ## Comenzando 🚀
 
 Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
@@ -72,13 +69,12 @@ $ git clone https://github.com/NicolasHerrera06/Data_Science_Proyecto_Final.git
 
 ```
 $ git clone https://github.com/NicolasHerrera06/Data_Science_Proyecto_Final.git
-```
-
 > Cloning into `Spoon-Knife`...
 > remote: Counting objects: 10, done.
 > remote: Compressing objects: 100% (8/8), done.
 > remove: Total 10 (delta 1), reused 10 (delta 1)
 > Unpacking objects: 100% (10/10), done.
+```
 
 
 ## Construido con 🛠️
