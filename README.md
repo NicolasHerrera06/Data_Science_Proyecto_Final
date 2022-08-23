@@ -47,11 +47,14 @@ https://github.com/NicolasHerrera06/Data_Science_Proyecto_Final
 
 ### Pre-requisitos 📋
 
-Para instalar el software y como instalarlas python 3 y Anaconda
+Para instalar el software y como instalarlas python 3, Anaconda y git.
 
 ```
 pip install Python3
 ```
+
+[Anaconda](https://www.anaconda.com/) - Descargar e instalar Anaconda
+[Git](https://git-scm.com/downloads) - Descargar e instalar Git
 
 ### Instalación 🔧
 
