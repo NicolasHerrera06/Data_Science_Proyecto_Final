@@ -54,6 +54,7 @@ pip install Python3
 ```
 
 [Anaconda](https://www.anaconda.com/) - Descargar e instalar Anaconda
+
 [Git](https://git-scm.com/downloads) - Descargar e instalar Git
 
 ### Instalación 🔧
